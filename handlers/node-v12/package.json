@@ -1,0 +1,7 @@
+{
+  "name": "merge-sort-lambda",
+  "version": "1.0.0",
+  "description": "Merge sort lambda in NodeJS",
+  "main": "app.js",
+  "license": "MIT"
+}
